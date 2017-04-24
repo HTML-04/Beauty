@@ -1,0 +1,6 @@
+#wrap{width:100%;height:100%;overflow: hidden;}
+#main{width:100%;height:92.42%;background:greenyellow;overflow: auto;}
+#tab{width:100%;height:7.58%;background:pink;}
+
+#tab li{width:25%;height:100%;float:left;text-align:center;display:table;}
+#tab li a{display:table-cell;vertical-align: middle;width:100%;height:100%;}
